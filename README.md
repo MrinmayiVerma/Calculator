@@ -30,4 +30,8 @@ The program's logic is contained within a single main method, providing a clear 
 - Error Handling and Validation
   The program incorporates basic error handling and validation mechanisms to ensure robustness and reliability. For example, it checks for division by zero and invalid user input, displaying error messages and 
   exiting the program as necessary.
+# Technologies Used
+
+- Java
+
 
